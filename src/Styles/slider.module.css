@@ -1,0 +1,16 @@
+.sliderContainer {
+  background: #e3f2fd;
+  padding: 1rem;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 450px;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 400px;
+  max-height: 300px;
+  object-fit: cover;
+  border: 5px solid #bbdefb;
+  border-radius: 15px;
+}

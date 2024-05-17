@@ -1,0 +1,28 @@
+.container {
+  background: linear-gradient(135deg, #e0f7fa, #80deea);
+  padding: 2rem;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 5vh;
+}
+
+.componentContainer {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  background-color: #00525d !important;
+  border: #00525d !important;
+}
+
+button:hover {
+  background-color: #ffffff !important;
+  border: #00525d !important;
+  color: #00525d !important;
+}
+
+h1 {
+  color: #00525d !important;
+}
