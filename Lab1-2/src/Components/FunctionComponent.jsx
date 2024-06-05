@@ -1,4 +1,3 @@
-// src/components/FunctionComponent.jsx
 import React, { useState } from "react";
 import useFetch from "../hooks/useFetch";
 import styles from "../Styles/functionComponent.module.css";
