@@ -1,0 +1,25 @@
+/* src/Styles/functionComponent.module.css */
+.functionComponentContainer {
+  background: #e3f2fd;
+  padding: 1rem;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.cardsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  background: #bbdefb;
+  margin: 0.5rem;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 200px;
+  text-align: left;
+}

@@ -1,0 +1,22 @@
+/* src/Styles/classComponent.module.css */
+.classComponentContainer {
+  background: #e3f2fd;
+  padding: 1rem;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.commentsList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.commentsList li {
+  background: #bbdefb;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
